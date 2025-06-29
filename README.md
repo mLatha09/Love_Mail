@@ -17,7 +17,7 @@
 
 ## ✨ How to Use
 1. Fork or download the repo
-2. Edit `lovemail2.html` with your custom message
+2. Edit `index.html` with your custom message
 3. Open in browser or host it online
 4. Surprise someone special 💝
 
