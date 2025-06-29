@@ -13,7 +13,7 @@
 - 💗 Fully responsive design
 
 ## 📸 Demo
-🔗 [Live Preview](https://yourusername.github.io/Love_Mail)
+🔗 [Live Preview](https://mlatha09.github.io/Love_Mail/)
 
 ## ✨ How to Use
 1. Fork or download the repo
@@ -35,7 +35,7 @@ Want a version that:
 👉 Open an issue or reach out!
 
 ## 🙋‍♀️ Author
-Made with love by [Latha – Empress of Code 👑](https://github.com/yourusername)
+Made with love by [Latha ](https://github.com/mLatha09)
 
 ---
 
